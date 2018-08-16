@@ -1,0 +1,9 @@
+*{
+	margins: 0px;
+	padding: 0px;
+}
+.main{
+	height: 800px;
+	text-align: center;
+	padding-top: 300px;
+}
