@@ -6,4 +6,10 @@
 	height: 800px;
 	text-align: center;
 	padding-top: 300px;
+	background-color: lightgrey;
+}
+table {
+	
+	margin: auto;
+	justify-content: center;
 }
